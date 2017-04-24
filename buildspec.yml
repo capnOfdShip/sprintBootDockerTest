@@ -7,4 +7,4 @@ phases:
 
 artifacts:
   files:
-    - gs-spring-boot-docker-0.1.0.zip
+    - build/distributions/gs-spring-boot-docker-0.1.0.zip
